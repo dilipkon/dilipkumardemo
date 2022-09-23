@@ -10,7 +10,8 @@ public class Sammp {
 		a[4]=50;
 		
 		System.out.println(a[6]);
-		
+		System.out.println(a[0]);
+
 		
 		
 		
