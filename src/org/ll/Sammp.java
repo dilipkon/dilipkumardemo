@@ -11,6 +11,7 @@ public class Sammp {
 		
 		System.out.println(a[6]);
 		System.out.println(a[0]);
+		System.out.println(a[1]);
 
 		
 		
